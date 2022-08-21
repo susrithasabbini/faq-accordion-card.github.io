@@ -15,7 +15,7 @@ body {
 
 .main {
     position: relative;
-    max-width: 1200px;
+    max-width: 1300px;
     margin: 0 auto;
     padding: 0 80px;
 }
@@ -24,10 +24,10 @@ body {
     position: relative;
     display: flex;
     justify-content: space-between;
-    max-width: 1200px;
+    max-width: 1300px;
     background-color: white;
     box-shadow: 1 3px 20px rgba(0, 0, 0, 0.445);
-    margin: 140px auto 15% auto;
+    margin: 130px auto 12% auto;
     border-radius: 25px;
 }
 
