@@ -24,10 +24,10 @@ body {
     position: relative;
     display: flex;
     justify-content: space-between;
-    max-width: 1000px;
+    max-width: 1200px;
     background-color: white;
     box-shadow: 1 3px 20px rgba(0, 0, 0, 0.445);
-    margin: 120px auto 15% auto;
+    margin: 140px auto 15% auto;
     border-radius: 25px;
 }
 
